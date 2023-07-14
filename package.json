@@ -1,0 +1,16 @@
+{
+  "name": "com222-testse2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.0"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2"
+  }
+}
